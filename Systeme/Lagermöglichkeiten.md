@@ -9,8 +9,6 @@ Die Lagerarten sind **nach Erreichbarkeit sortiert**, wobei sich „Erreichen“
 3. Haus  
 4. Lagerhalle
 
----
-
 ## Schließfach
 
 Das Schließfach ist die am einfachsten erreichbare Lagermöglichkeit.
@@ -33,8 +31,6 @@ Das Schließfach ist die am einfachsten erreichbare Lagermöglichkeit.
 - Keine illegalen Items
 - Keine physischen Items (I-Items)
 - Öffentlich, hochfrequentiert
-
----
 
 ## Container Unit
 
@@ -62,8 +58,6 @@ Eine Container Unit ist ein kleiner Lagerplatz abseits belebter Orte.
 - Keine Erweiterungen möglich
 - Laufende Mietkosten
 
----
-
 ## Haus
 
 Ein Haus ist eine deutlich teurere, aber vielseitige Lagermöglichkeit.
@@ -83,8 +77,6 @@ Ein Haus ist eine deutlich teurere, aber vielseitige Lagermöglichkeit.
 ### Nachteile
 - Hohe Anschaffungskosten
 - Begrenzte Lagerkapazität je nach Haustyp
-
----
 
 ## Lagerhalle
 
@@ -106,8 +98,6 @@ Die kleine Lagerhalle stellt die teuerste Lagermöglichkeit in dieser Kategorie 
 - Sehr hohe Kosten
 - Nur für fortgeschrittene Nutzung sinnvoll
 - Begrenzt vorhanden in Industrie- und Gewerbegebieten
-
----
 
 ## Lagerung in Fahrzeugen
 

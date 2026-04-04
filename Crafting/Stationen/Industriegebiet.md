@@ -14,27 +14,27 @@ Dort können verschiedene Materialien hergestellt werden. Dazu gehören Aluminiu
   - 2x Kohle
 - Ergibt:
   - 1x Aluminium
-
+---
 ### Karbon
 - Benötigt:
   - 4x verarbeitetes Öl
   - 2x Silicium
 - Ergibt:
   - 1x Karbon
-
+---
 ### Schwarzpulver
 - Benötigt:
   - 5x Kohle
   - 5x Schwefel
 - Ergibt:
   - 4x Schwarzpulver
-
+---
 ### Seide
 - Benötigt:
   - 4x Baumwolle
 - Ergibt:
   - 1x Seide
-
+---
 ### Stahl
 - Benötigt:
   - 2x Kohle

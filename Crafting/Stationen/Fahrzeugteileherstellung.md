@@ -24,7 +24,7 @@ Dort können verschiedene Komponenten für Fahrzeuge hergestellt werden. Dazu ge
 ### Lkw-Batterie
 - Benötigt:
   - 90x Blei
-  - 40x Schwefelsäure
+  - 50x Schwefelsäure
 - Ergibt:
   - 1x Lkw-Batterie
 ---

@@ -9,7 +9,8 @@ Option 2:
 - Anbau in Gewächshäusern oder auf gedüngten Feldern
 - nach Wachstum aberneten
 
-
+Nach den beiden Optionen:
+      
 - Verarbeitung: Marihuanaverarbeiter
 - Lizenskosten: 45.000€ 
 - Endprodukt: 1 Marihuana
@@ -48,3 +49,17 @@ Option 2:
 - Verarbeitung: Zauberpilzherstellung 
 - Endprodukt: 1 Pilz + 1 Schwefelsäure = 2 Zauberpilze
 - Verkauf: Cafe
+
+## Uranbehälter
+- benötigtes Level: Mining/Landwirtschaft Level 3 + Allgemein Level 12
+- bentötigtes Ausrüstung: Castor LKW + Stahlenschutzanzug + Maske 
+- Abbauort: Uranmine (ungereinigtes Uranerz)
+- Verarbeitung: Uranreinigung
+- Lizenskosten: keine
+- Zwischenprodukt: 3 ungereinigtes Uranerz + 1 Trennmittel = 3 gereinigte Uran + 1 Uranabfall
+- Verarbeitung: Urananreicherung
+- Zwischenprodukt: 3 gereinigte Uran = 1 angereichertes Uran
+- Verarbeitung: Uranabfüllung
+- Lizenskosten: 150.000€ 
+- Endprodukt: 1 Uranbehälter
+- Verkauf: Uranhändler

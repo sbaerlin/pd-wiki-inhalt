@@ -1,7 +1,7 @@
 # LKW
 
 ## Mercedes Arocs Van Box
-- *benötigt Allgemien Level 23*
+- *benötigt Allgemein Level 23*
 - *Kofferraum 2300 Kg*
 - 1× Lkw-Motor  
 - 6× Lkw-Reifen  
@@ -57,7 +57,7 @@
 - 220× Stahl  
 
 ## Mercedes Arocs Gerät
-- *benötigt Allgemien Level 15*
+- *benötigt Allgemein Level 15*
 - *Kofferraum 1400 Kg*
 - 2× Lkw-Motoren  
 - 8× Lkw-Reifen  
@@ -69,7 +69,7 @@
 - 210× Stahl  
 
 ## Mercedes Arocs Van Box
-- *benötigt Allgemien Level 19*
+- *benötigt Allgemein Level 19*
 - *Kofferraum 2200 Kg*
 - 1× Lkw-Motor  
 - 8× Lkw-Reifen  
@@ -94,7 +94,7 @@
 # Spezial-LKWs
 
 ## Erzgripper
-- *benötigt Allgemien Level 28*
+- *benötigt Allgemein Level 28*
 - *Kofferraum 3000 Kg (kann nur Erze laden)*
 - 1× MAN VanBox-Baukasten  
 - 100× Carbon  
@@ -102,7 +102,7 @@
 - 550× Stahl  
 
 ## MAN Holz
-- *benötigt Allgemien Level 26*
+- *benötigt Allgemein Level 26*
 - *Kofferraum 2600 Kg (kann nur Holz und Kohle laden)*
 - *baut selbststädig ab*
 - 1× MAN VanBox-Baukasten  
@@ -111,7 +111,7 @@
 - 150× Stahl   
 
 ## Mercedes Arocs Crafter
-- *benötigt Allgemien Level 27*
+- *benötigt Allgemein Level 27*
 - *Kofferraum 3000 Kg*
 - 1× Mercedes Arocs VanBox-Baukasten  
 - 100× Carbon  
@@ -119,7 +119,7 @@
 - 350× Stahl   
 
 ## Supertanker
-- *benötigt Allgemien Level 12*
+- *benötigt Allgemein Level 12*
 - *Kofferraum 3200 Kg*
 - 1× MAN VanBox-Baukasten  
 - 350× Carbon  

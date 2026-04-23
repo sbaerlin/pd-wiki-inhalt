@@ -15,12 +15,12 @@ Dort können verschiedene Materialien hergestellt werden. Dazu gehören Aluminiu
 - Ergibt:
   - 1x Aluminium
 ---
-### Karbon
+### Carbon
 - Benötigt:
   - 4x verarbeitetes Öl
   - 2x Silizium
 - Ergibt:
-  - 1x Karbon
+  - 1x Carbon
 ---
 ### Schwarzpulver
 - Benötigt:

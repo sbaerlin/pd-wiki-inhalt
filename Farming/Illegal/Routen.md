@@ -9,6 +9,7 @@ Option 2:
 - Anbau in Gewächshäusern oder auf gedüngten Feldern
 - nach Wachstum aberneten
 
+
 - Verarbeitung: Marihuanaverarbeiter
 - Lizenskosten: 45.000€ 
 - Endprodukt: 1 Marihuana

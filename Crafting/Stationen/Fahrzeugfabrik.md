@@ -1,6 +1,6 @@
 # LKW
 
-## Mercedes Arocs Van Box
+## MAN TGS Van Box
 - *benötigt Allgemein Level 23*
 - *Kofferraum 2300 Kg*
 - 1× Lkw-Motor

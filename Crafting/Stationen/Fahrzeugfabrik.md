@@ -93,7 +93,7 @@
 
 # Spezial-LKWs
 
-## Erzgripper
+## Erzkipper
 - *benötigt Allgemein Level 28*
 - *Kofferraum 3000 Kg (kann nur Erze laden)*
 - 1× MAN VanBox-Baukasten

@@ -10,7 +10,7 @@ Dort können verschiedene Materialien hergestellt werden. Dazu gehören Aluminiu
 
 ### Aluminium
 - Benötigt:
-  - 2x Silicium
+  - 2x Silizium
   - 2x Kohle
 - Ergibt:
   - 1x Aluminium
@@ -18,7 +18,7 @@ Dort können verschiedene Materialien hergestellt werden. Dazu gehören Aluminiu
 ### Karbon
 - Benötigt:
   - 4x verarbeitetes Öl
-  - 2x Silicium
+  - 2x Silizium
 - Ergibt:
   - 1x Karbon
 ---

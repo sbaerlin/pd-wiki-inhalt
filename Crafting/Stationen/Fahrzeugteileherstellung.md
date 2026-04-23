@@ -10,7 +10,7 @@ Dort können verschiedene Komponenten für Fahrzeuge hergestellt werden. Dazu ge
 
 ### Elektronikbauteil
 - Benötigt:
-  - 7x Kupferbahnen
+  - 7x Kupferbarren
   - 2x Eisenbarren
 - Ergibt:
   - 1x Elektronikbauteil

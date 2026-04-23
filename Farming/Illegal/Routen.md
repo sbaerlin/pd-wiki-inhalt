@@ -12,7 +12,7 @@ Option 2:
 Nach den beiden Optionen:
       
 - Verarbeitung: Marihuanaverarbeiter
-- Lizenskosten: 45.000€ 
+- Lizenskosten: 45.000€
 - Endprodukt: 1 Marihuana
 - Verkauf: Cafe
 
@@ -21,7 +21,7 @@ Nach den beiden Optionen:
 - Anbau in Gewächshäusern
 - nach Wachstum aberneten (Zuchtcannabispflanze)
 - Verarbeitung: Marihuanaverarbeiter
-- Lizenskosten: 45.000€ 
+- Lizenskosten: 45.000€
 - Endprodukt: 1 hochertiges Marihuana
 - Verkauf: Cafe
 
@@ -29,8 +29,8 @@ Nach den beiden Optionen:
 - Kokainssamen beim Bauernmarkt kaufen
 - Anbau in Gewächshäusern
 - nach Wachstum aberneten (Kokainpflanze)
-- Verarbeitung: Kokainverarbeiter 
-- Lizenskosten: 60.000€ 
+- Verarbeitung: Kokainverarbeiter
+- Lizenskosten: 60.000€
 - Endprodukt: 1 verarbeitetes Kokain
 - Verkauf: Cafe
 
@@ -38,21 +38,21 @@ Nach den beiden Optionen:
 - benötigt Zuchtkokainsamen, diese erhält durch ernten von Kokain im Gewächshaus
 - Anbau in Gewächshäusern
 - nach Wachstum aberneten (Zuchtkokainpflanze)
-- Verarbeitung: Kokainverarbeiter 
-- Lizenskosten: 60.000€ 
+- Verarbeitung: Kokainverarbeiter
+- Lizenskosten: 60.000€
 - Endprodukt: 1 hochwertiges Kokain
 - Verkauf: Cafe
 
 ## Zauberpilze
 - benötigtes Level: Mining/Landwirtschaft Level 3
 - Abbauort: Pilzwald (Pilze) -> diese sind nicht illegal!
-- Verarbeitung: Zauberpilzherstellung 
+- Verarbeitung: Zauberpilzherstellung
 - Endprodukt: 1 Pilz + 1 Schwefelsäure = 2 Zauberpilze
 - Verkauf: Cafe
 
 ## Uranbehälter
 - benötigtes Level: Mining/Landwirtschaft Level 3 + Allgemein Level 12
-- bentötigtes Ausrüstung: Castor LKW + Stahlenschutzanzug + Maske 
+- bentötigtes Ausrüstung: Castor LKW + Stahlenschutzanzug + Maske
 - Abbauort: Uranmine (ungereinigtes Uranerz)
 - Verarbeitung: Uranreinigung
 - Lizenskosten: keine
@@ -60,6 +60,6 @@ Nach den beiden Optionen:
 - Verarbeitung: Urananreicherung
 - Zwischenprodukt: 3 gereinigte Uran = 1 angereichertes Uran
 - Verarbeitung: Uranabfüllung
-- Lizenskosten: 150.000€ 
+- Lizenskosten: 150.000€
 - Endprodukt: 1 Uranbehälter
 - Verkauf: Uranhändler

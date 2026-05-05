@@ -1,6 +1,6 @@
-# Farming Routen 
+# 🌿 Farming Routen 
 
-## Marihuana
+## 🌿 Marihuana
 Option 1:
 - **Abbauort:** Marihuana-Plantage (Cannabis)
 
@@ -16,7 +16,7 @@ Nach den beiden Optionen:
 - **Endprodukt:** 1 Marihuana
 - **Verkauf:** Café
 
-## Hochwertiges Marihuana
+## 💎 Hochwertiges Marihuana
 - **Voraussetzung:** Zucht-Cannabis (erhält man durch Ernten von Cannabis im Gewächshaus)
 - **Anbau:** in Gewächshäusern
 - **Ernte:** nach Wachstum abernten (Zucht-Cannabispflanze)
@@ -25,7 +25,7 @@ Nach den beiden Optionen:
 - **Endprodukt:** 1 hochwertiges Marihuana
 - **Verkauf:** Café
 
-## Kokain
+## 🧪 Kokain
 - **Kauf:** Kokain-Samen beim Bauernmarkt
 - **Anbau:** in Gewächshäusern
 - **Ernte:** nach Wachstum abernten (Kokainpflanze)
@@ -34,7 +34,7 @@ Nach den beiden Optionen:
 - **Endprodukt:** 1 verarbeitetes Kokain
 - **Verkauf:** Café
 
-## Hochwertiges Kokain
+## 💎 Hochwertiges Kokain
 - **Voraussetzung:** Zucht-Kokainsamen (erhält man durch Ernten von Kokain im Gewächshaus)
 - **Anbau:** in Gewächshäusern
 - **Ernte:** nach Wachstum abernten (Zucht-Kokainpflanze)
@@ -43,14 +43,14 @@ Nach den beiden Optionen:
 - **Endprodukt:** 1 hochwertiges Kokain
 - **Verkauf:** Café
 
-## Zauberpilze
+## 🍄 Zauberpilze
 - **benötigtes Level:** Mining/Landwirtschaft Level 3
 - **Abbauort:** Pilzwald (Pilze) -> diese sind nicht illegal!
 - **Verarbeitung:** Zauberpilzherstellung
 - **Endprodukt:** 1 Pilz + 1 Schwefelsäure = 2 Zauberpilze
 - **Verkauf:** Café
 
-## Uranbehälter
+## ☢️ Uranbehälter
 - **benötigtes Level:** Mining/Landwirtschaft Level 3 + Allgemein Level 12
 - **benötigte Ausrüstung:** Castor-LKW + Strahlenschutzanzug + Maske
 - **Abbauort:** Uranmine (ungereinigtes Uranerz)

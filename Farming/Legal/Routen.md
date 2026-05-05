@@ -1,7 +1,6 @@
+# 🌾 Farming-Routen
 
-# Farming-Routen
-
-## Eisen
+## ⛏️ Eisen
 - **benötigtes Level:** Mining/Landwirtschaft Level 3
 - **Abbauort:** Eisenmine
 - **Abbauprodukt:** Eisenerz
@@ -10,7 +9,7 @@
 - **Endprodukt:** 1 Eisenbarren
 - **Nutzung:** Verkauf beim Metallhändler oder Weiterverarbeitung im Crafting
 
-## Kupfer
+## 🔶 Kupfer
 - **benötigtes Level:** Mining/Landwirtschaft Level 3
 - **Abbauort:** Kupfermine
 - **Abbauprodukt:** Kupfererz
@@ -19,7 +18,7 @@
 - **Endprodukt:** 1 Kupferbarren
 - **Nutzung:** Verkauf beim Metallhändler oder Weiterverarbeitung im Crafting
 
-## Gummi
+## ♻️ Gummi
 - **Abbauort:** Schrottplatz
 - **Abbauprodukt:** altes Gummi
 - **Verarbeitung:** Industriegebiet
@@ -27,7 +26,7 @@
 - **Endprodukt:** 1 aufgearbeitetes Gummi
 - **Nutzung:** Verkauf beim Großhändler oder Weiterverarbeitung im Crafting
 
-## Schwefel
+## 🧪 Schwefel
 - **benötigtes Level:** Mining/Landwirtschaft Level 3
 - **Abbauort:** Schwefelmine
 - **Abbauprodukt:** Schwefelerz
@@ -36,7 +35,7 @@
 - **Endprodukt:** 1 Schwefel
 - **Nutzung:** Verkauf beim Großhändler oder Weiterverarbeitung im Crafting
 
-## Glas
+## 🪟 Glas
 - **benötigtes Werkzeug:** Schaufel
 - **Abbauort:** Sandmine
 - **Abbauprodukt:** Sand
@@ -45,7 +44,7 @@
 - **Endprodukt:** 1 Glas
 - **Nutzung:** Verkauf beim Großhändler oder Weiterverarbeitung im Crafting
 
-## Kohle
+## 🌲 Kohle
 - **benötigtes Werkzeug:** Axt
 - **Abbauort:** Holzabbaugebiet
 - **Abbauprodukt:** Holzscheitel
@@ -54,7 +53,7 @@
 - **Endprodukt:** 1 Kohle
 - **Nutzung:** Verkauf beim Großhändler oder Weiterverarbeitung im Crafting
 
-## Silizium
+## 💻 Silizium
 - **benötigtes Level:** Mining/Landwirtschaft Level 3
 - **Abbauort:** Siliziummine
 - **Abbauprodukt:** rohes Silizium
@@ -63,7 +62,7 @@
 - **Endprodukt:** 1 Silizium
 - **Nutzung:** Verkauf beim Großhändler oder Weiterverarbeitung im Crafting
 
-## Blei
+## ⚙️ Blei
 - **benötigtes Level:** Mining/Landwirtschaft Level 3
 - **Abbauort:** Bleimine
 - **Abbauprodukt:** Bleierz
@@ -72,7 +71,7 @@
 - **Endprodukt:** 1 Blei
 - **Nutzung:** Verkauf beim Metallhändler oder Weiterverarbeitung im Crafting
 
-## Öl
+## 🛢️ Öl
 - **benötigtes Werkzeug:** Spitzhacke
 - **Abbauort:** Ölfelder
 - **Abbauprodukt:** Rohöl  
@@ -82,7 +81,7 @@
 - **Endprodukt:** 1 verarbeitetes Öl
 - **Nutzung:** Verkauf beim Großhändler oder Weiterverarbeitung im Crafting
 
-## Kraftstoff
+## ⛽ Kraftstoff
 - **benötigtes Ausgangsprodukt:** verarbeitetes Öl
 - **Verarbeitung:** Kraftstoffraffinerie
 - **Lizenzkosten:** x.x00 €
@@ -90,7 +89,7 @@
   > Nur in Tanklaster verladbar.
 - **Nutzung:** Verkauf an Tankstellen
 
-## Trennmittel
+## 🧴 Trennmittel
 - **Abbauort:** Trennmittelreservoir
 - **Abbauprodukt:** flüssiges Trennmittel  
   > Nur in Tanklaster verladbar.
@@ -99,7 +98,7 @@
 - **Endprodukt:** 1 Trennmittel
 - **Nutzung:** Weiterverarbeitung im Crafting
 
-## Wein
+## 🍷 Wein
 - **Abbauort:** Weingut
 - **Abbauprodukt:** Weintrauben
 - **Verarbeitung:** Brauerei
@@ -107,7 +106,7 @@
 - **Endprodukt:** 2 Rotwein
 - **Nutzung:** Verkauf oder Nutzung im Crafting
 
-## Bier
+## 🍺 Bier
 - **Abbauort:** Hopfenplantage
 - **Abbauprodukt:** Hopfen
 - **zusätzlich benötigt:** Weizen

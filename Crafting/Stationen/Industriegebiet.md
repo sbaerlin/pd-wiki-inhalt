@@ -4,44 +4,39 @@ Das Industriegebiet befindet sich nördlich von Frankfurt.
 
 Dort können verschiedene Materialien hergestellt werden. Dazu gehören Aluminium, Carbon, Schwarzpulver, Seide und Stahl.
 
----
 
-## 🔧 Herstellung
+## Aluminium
+- **Benötigt:**
+  - 2× Silizium
+  - 2× Kohle
+- **Ergibt:**
+  - 1× Aluminium
 
-### Aluminium
-- Benötigt:
-  - 2x Silizium
-  - 2x Kohle
-- Ergibt:
-  - 1x Aluminium
----
-### Carbon
-- Benötigt:
-  - 4x verarbeitetes Öl
-  - 2x Silizium
-- Ergibt:
-  - 1x Carbon
----
-### Schwarzpulver
-- Benötigt:
-  - 5x Kohle
-  - 5x Schwefel
-- Ergibt:
-  - 4x Schwarzpulver
----
-### Seide
-- Benötigt:
-  - 4x Baumwolle
-- Ergibt:
-  - 1x Seide
----
-### Stahl
-- Benötigt:
-  - 2x Kohle
-  - 3x Eisenbarren
-- Ergibt:
-  - 1x Stahl
+## Carbon
+- **Benötigt:**
+  - 4× verarbeitetes Öl
+  - 2× Silizium
+- **Ergibt:**
+  - 1× Carbon
 
----
+## Schwarzpulver
+- **Benötigt:**
+  - 5× Kohle
+  - 5× Schwefel
+- **Ergibt:**
+  - 4× Schwarzpulver
+
+## Seide
+- **Benötigt:**
+  - 4× Baumwolle
+- **Ergibt:**
+  - 1× Seide
+
+## Stahl
+- **Benötigt:**
+  - 2× Kohle
+  - 3× Eisenbarren
+- **Ergibt:**
+  - 1× Stahl
 
 Das Industriegebiet ist ein zentraler Ort für die Weiterverarbeitung von Rohstoffen im Crafting-System.

@@ -12,7 +12,11 @@ Das Geld wird benötigt, um den Transport überhaupt auszulösen. Ohne diesen Be
 
 ## Ablauf
 
-Nach der Aktivierung erscheint der Goldtransporter am jeweiligen Standort. Ziel ist es, den Transport sicher zur Zielbank zu bringen.
+Nach der Aktivierung öffnet sich der Goldtransporter am jeweiligen Standort. 
+Ziel ist es, den Transport sicher zur Zielbank zu bringen.
+
+Wichtig zu wissen, dass die Polizei jederzeit den Standort des Transporters auf der Karte sieht. 
+Dieser kann auch nicht durch einen Störsender beeinträchtigt werden.
 
 ### Route
 
@@ -23,8 +27,9 @@ Der Transport muss aktiv gefahren werden. Es handelt sich nicht um einen automat
 
 ## Zielort
 
-Am Zielort, der Bank in München, muss der Goldtransporter geöffnet werden.
+Am Zielort, der Bank in München, muss der Goldtransporter in den dafür vorgesehenen gelb markiertzen Bereich geparkt werden. 
+Nach einer gewissen Wartezeit öffnet sich der Kofferraum des LKW`s und dan Gold kann entnommen werden.
 
+Dabei handelt es sich um 1.000g Barren die beim Edelmetallhändler verkauft werden können.
 
-Erst nach erfolgreichem Öffnen kann das Gold aus dem Fahrzeug entnommen werden.
 

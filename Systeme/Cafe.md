@@ -1,14 +1,14 @@
-# Cafe-System (Drogenverkauf)
+# ☕ Cafe-System (Drogenverkauf)
 
-## Übersicht
+## 📋 Übersicht
 Das Cafe-System ermöglicht es Spielern, Drogen über bestimmte Cafes auf dem Server zu verkaufen. Diese Cafes müssen zunächst eingenommen werden und bieten anschließend die Möglichkeit, Ware zu lagern und automatisch verkaufen zu lassen.
 
-## Einnahme eines Cafes
+## ⚙️ Einnahme eines Cafes
 - Cafes sind über den Server verteilt und können von Spielern oder Gangs eingenommen werden.
 - Die Einnahme dauert eine bestimmte Zeit.
 - Erst nach erfolgreicher Einnahme gehört das Cafe dir bzw. deiner Gang.
 
-## Nutzung des Cafes
+## 🏪 Nutzung des Cafes
 Nach der Einnahme kannst du:
 
 - Drogen im Cafe einlagern
@@ -17,7 +17,7 @@ Nach der Einnahme kannst du:
 Wichtig:
 Der Verkauf läuft nicht sofort, sondern benötigt Zeit.
 
-## Verkaufsdauer
+## ⏳ Verkaufsdauer
 - Der Verkaufsprozess dauert bis zu 30 Minuten.
 - Danach kann das verdiente Geld abgeholt werden.
 
@@ -26,7 +26,7 @@ Strategie-Tipp:
 - Ware verteilen
 - Nach etwa 30 Minuten zurückkommen und das Geld einsammeln
 
-## Marktpreis und Polizeisystem
+## 💰 Marktpreis und Polizeisystem
 Der Verkaufspreis hängt von der Anzahl der aktiven Polizisten ab:
 
 - Mehr Polizisten online → höherer Verkaufspreis
@@ -38,7 +38,7 @@ Ziel des Systems:
 Vor dem Verkauf erhältst du eine Meldung:
 - Ob du den vollen Preis oder nur einen reduzierten Preis bekommst
 
-## Risiko und Überfälle
+## ⚠️ Risiko und Überfälle
 Cafes sind nicht sicher und können angegriffen werden:
 
 - Andere Spieler oder Gangs können dein Cafe einnehmen
@@ -48,14 +48,14 @@ Cafes sind nicht sicher und können angegriffen werden:
 Wichtig:
 Klauen ist nur nach Übernahme des Cafes möglich.
 
-## Benachrichtigungen
+## 📱 Benachrichtigungen
 Wenn dein Cafe angegriffen wird:
 
 - Du erhältst eine SMS-Benachrichtigung
 
 Dadurch hast du die Möglichkeit zu reagieren und dein Cafe zu verteidigen.
 
-## Zusammenfassung
+## 📌 Zusammenfassung
 - Cafes müssen eingenommen werden
 - Drogen können dort gelagert und verkauft werden
 - Verkauf dauert bis zu 30 Minuten

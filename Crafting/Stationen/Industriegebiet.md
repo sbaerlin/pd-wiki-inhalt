@@ -2,7 +2,7 @@
 
 Das Industriegebiet befindet sich nördlich von Frankfurt.
 
-Dort können verschiedene Materialien hergestellt werden. Dazu gehören Aluminium, Karbon, Schwarzpulver, Seide und Stahl.
+Dort können verschiedene Materialien hergestellt werden. Dazu gehören Aluminium, Carbon, Schwarzpulver, Seide und Stahl.
 
 ---
 

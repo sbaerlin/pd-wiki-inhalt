@@ -11,6 +11,7 @@ Derzeit stehen drei verschiedene Jobs zur Verfügung:
 
 Die Auszahlung erfolgt grundsätzlich **erst nach erfolgreicher Rückgabe des jeweiligen Fahrzeugs im Jobcenter Stuttgart**.
 
+---
 
 # 🏢 Jobcenter Stuttgart
 
@@ -26,8 +27,9 @@ Hier können Spieler:
 
 Alle Jobs beginnen und enden an diesem Ort.
 
+---
 
-## 📦 Paketdienst
+# 📦 Paketdienst
 
 Der **Paketdienst** ist ein einfacher Job, der sich besonders für **Spieler eignet, die alleine spielen**.
 
@@ -59,7 +61,7 @@ Nach erfolgreicher Lieferung erhält der Spieler automatisch den **nächsten Lie
 ➡️ Danach erfolgt die **Auszahlung**.
 
 
-## 🚌 Busfahrer
+# 🚌 Busfahrer
 
 Der **Busfahrer-Job** ermöglicht es Spielern, **Linienverkehr zwischen Haltestellen zu fahren**.
 
@@ -98,7 +100,7 @@ Der **Busfahrer-Job** ermöglicht es Spielern, **Linienverkehr zwischen Halteste
 ➡️ Auszahlung erfolgt
 
 
-## 🗑️ Müllabfuhr
+# 🗑️ Müllabfuhr
 
 Der Job **Müllabfuhr** ist besonders für **Teamarbeit** geeignet.
 
@@ -136,8 +138,6 @@ Ablauf:
 
 - Zur Deponie fahren
 - Müll entleeren
-
----
 
 ## 👥 Crew-System
 

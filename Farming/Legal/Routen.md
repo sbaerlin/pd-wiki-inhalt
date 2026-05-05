@@ -2,7 +2,8 @@
 
 ## Eisen
 - benötigtes Level: Mining/Landwirtschaft Level 3
-- Abbauort: Eisenmine (Eisenerz)
+- Abbauort: Eisenmine
+- Abbauprodukt: Eisenerz
 - Verarbeitung: Industiregebiet
 - Lizenskosten: 13.000€ (Lizenz Industriegebiet)
 - Endprodukt: 1 Eisenbarren
@@ -10,14 +11,16 @@
 
 ## Kupfer
 - benötigtes Level: Mining/Landwirtschaft Level 3
-- Abbauort: Kupfernmine (Kupfererz)
+- Abbauort: Kupfernmine 
+- Abbauprodukt: Kupfererz
 - Verarbeitung: Industriegebiet
 - Lizenskosten: 13.000€ (Lizenz Industriegebiet)
 - Endprodukt: 1 Kupferbarren
 - Verkauf: Metallhändler (oder crafting)
 
 ## Gummi
-- Abbauort: Schrottplatz (altes Gummi)
+- Abbauort: Schrottplatz 
+- Abbauprodukt: altes Gummi
 - Verarbeitung: Industriegebiet
 - Lizenskosten: 13.000€ (Lizenz Industriegebiet)
 - Endprodukt: 1 aufgearbeitetes Gummi
@@ -26,6 +29,7 @@
 ## Schwefel
 - benötigtes Level: Mining/Landwirtschaft Level 3
 - Abbauort: Schwefelnmine
+- Abbauprodukt: Schwefelerz
 - Verarbeitung: Industriegebiet
 - Lizenskosten: 13.000€ (Lizenz Industriegebiet)
 - Endprodukt: 1 Schwefel
@@ -33,7 +37,8 @@
 
 ## Glas
 - benötigte Werkzeuge: Schaufel
-- Abbauort: Sandmine (Sand)
+- Abbauort: Sandmine
+- Abbauprodukt: Sand
 - Verarbeitung: Sandverarbeiter
 - Lizenskosten: 14.500€
 - Endprodukt: 1 Glas
@@ -41,7 +46,8 @@
 
 ## Kohle
 - benötigte Werkzeuge: Axt
-- Abbauort: Holzabbaugebiet (Holz)
+- Abbauort: Holzabbaugebiet
+- Abbauprodukt: Holzscheitel
 - Verarbeitung: Köhlerrei
 - Lizenskosten: 8.000€
 - Endprodukt: 1 Kohle
@@ -49,7 +55,8 @@
 
 ## Silizium
 - benötigtes Level: Mining/Landwirtschaft Level 3
-- Abbauort: Siliziummine (rohes Silizium)
+- Abbauort: Siliziummine
+- Abbauprodukt: rohes Silizium
 - Verarbeitung: Siliziumverarbeiter
 - Lizenskosten: keine
 - Endprodukt: 1 Silizium
@@ -57,7 +64,8 @@
 
 ## Blei
 - benötigtes Level: Mining/Landwirtschaft Level 3
-- Abbauort: Bleimine (Bleierz)
+- Abbauort: Bleimine
+- Abbauprodukt: Bleierz
 - Verarbeitung: Bleiverarbeiter
 - Lizenskosten: 6.500€
 - Endprodukt: 1 Blei
@@ -65,7 +73,8 @@
 
 ## Öl
 - benötigte Werkzeuge: Spitzhacke
-- Abbauort: Ölfelder (Rohöl) *-> nur in Tanklaster verladbar*
+- Abbauort: Ölfelder
+- Abbauprodukt: Rohöl *-> nur in Tanklaster verladbar*
 - Verarbeitung: Raffinnerie
 - Lizenskosten: x.x00€
 - Endprodukt: 1 verarbeitetes Öl
@@ -79,17 +88,21 @@
 - Verkauf: Tankstellen
 
 ## Trennnmittel
-- Abbauort: Trennmittelreservua (flüssiges Trennmittel) *-> nur in Tanklaster verladbar*
+- Abbauort: Trennmittelreservua
+- Abbauprodukt: flüssiges Trennmittel *-> nur in Tanklaster verladbar*
 - Verarbeitung: Trennmittelabfüllanlage
 - Lizenskosten: 15.000€
 - Endprodukt: 1 Trennmittel
 
 ## Wein
-- Abbauort: Weingut (Weintrauben)
+- Abbauort: Weingut
+- Abbauprodukt: Weintrauben
 - Verarbeitung: Brauerrei
 - Endprodukt: 12 Weintrauben + 1 Wasserflasse = 2 Rotwein
 
 ## Bier
-- Abbauort: Hopfenplantage (Hopfen) + Weizen
+- Abbauort: Hopfenplantage
+- Abbauprodukt: Hopfen
+- weitere benötigte Produkte: Weizen (muss angebaut werden)
 - Verarbeitung: Brauerrei
 - Endprodukt: 8 Weizen + 4 Hopfen + 1 Wasserflasse = 4 Bier

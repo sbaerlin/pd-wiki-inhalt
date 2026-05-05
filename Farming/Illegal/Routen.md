@@ -1,7 +1,7 @@
 # Farming Routen 
 
 ## Marihuana
-Option 1
+Option 1:
 - Abbauort: Marihuanaplantage (Cannabis)
 
 Option 2:

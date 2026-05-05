@@ -11,7 +11,6 @@ Derzeit stehen drei verschiedene Jobs zur Verfügung:
 
 Die Auszahlung erfolgt grundsätzlich **erst nach erfolgreicher Rückgabe des jeweiligen Fahrzeugs im Jobcenter Stuttgart**.
 
----
 
 # 🏢 Jobcenter Stuttgart
 
@@ -27,19 +26,18 @@ Hier können Spieler:
 
 Alle Jobs beginnen und enden an diesem Ort.
 
----
 
-# 📦 Paketdienst
+## 📦 Paketdienst
 
 Der **Paketdienst** ist ein einfacher Job, der sich besonders für **Spieler eignet, die alleine spielen**.
 
-## ▶️ Jobstart
+### ▶️ Jobstart
 
 1. Zum **Jobcenter Stuttgart** gehen.
 2. Im Jobmenü den Job **„Paketdienst“** auswählen.
 3. Nach Annahme des Jobs erhält der Spieler einen **PDL-Sprinter**.
 
-## 🔄 Ablauf
+### 🔄 Ablauf
 
 Nach dem Start erhält der Spieler auf der Karte einen **Wegpunkt** zu einer Lieferadresse.
 
@@ -53,26 +51,25 @@ Der Ablauf einer Lieferung:
 
 Nach erfolgreicher Lieferung erhält der Spieler automatisch den **nächsten Lieferpunkt**.
 
-## ⏹️ Job beenden
+### ⏹️ Job beenden
 
 - Sprinter zurück nach Stuttgart bringen
 - Fahrzeug abgeben
 
 ➡️ Danach erfolgt die **Auszahlung**.
 
----
 
-# 🚌 Busfahrer
+## 🚌 Busfahrer
 
 Der **Busfahrer-Job** ermöglicht es Spielern, **Linienverkehr zwischen Haltestellen zu fahren**.
 
-## ▶️ Jobstart
+### ▶️ Jobstart
 
 1. Zum **Jobcenter Stuttgart** gehen.
 2. Job **„Busfahrer“** auswählen.
 3. **Fahrprüfung absolvieren**
 
-## 🧪 Fahrprüfung
+### 🧪 Fahrprüfung
 
 - Bus erhalten
 - Tür öffnen
@@ -81,7 +78,7 @@ Der **Busfahrer-Job** ermöglicht es Spielern, **Linienverkehr zwischen Halteste
 
 ➡️ Nach Erfolg: **P-Schein erhalten**
 
-## 🚏 Linienbetrieb
+### 🚏 Linienbetrieb
 
 1. Zur Haltestelle fahren
 2. In roten Kreis fahren
@@ -89,24 +86,23 @@ Der **Busfahrer-Job** ermöglicht es Spielern, **Linienverkehr zwischen Halteste
 4. Warten
 5. Weiterfahren
 
-## 💰 Bonus
+### 💰 Bonus
 
 - 👥 Mehr Spieler im Bus = mehr Geld
 
-## ⏹️ Job beenden
+### ⏹️ Job beenden
 
 - Bus zurückbringen
 - Abgeben
 
 ➡️ Auszahlung erfolgt
 
----
 
-# 🗑️ Müllabfuhr
+## 🗑️ Müllabfuhr
 
 Der Job **Müllabfuhr** ist besonders für **Teamarbeit** geeignet.
 
-## ▶️ Jobstart
+### ▶️ Jobstart
 
 1. Zum Jobcenter gehen
 2. Job auswählen
@@ -114,11 +110,10 @@ Der Job **Müllabfuhr** ist besonders für **Teamarbeit** geeignet.
    - 🚛 Selbst fahren
    - 👥 Crew beitreten
 
----
 
-# 🚛 Selbstfahrer
+## 🚛 Selbstfahrer
 
-## 🗑️ Müll sammeln
+### 🗑️ Müll sammeln
 
 - Gebiet zugewiesen
 - Mülltonnen sammeln
@@ -137,14 +132,14 @@ Ablauf:
 4. Entleeren
 5. Zurückstellen
 
-## ♻️ Müll abladen
+### ♻️ Müll abladen
 
 - Zur Deponie fahren
 - Müll entleeren
 
 ---
 
-# 👥 Crew-System
+## 👥 Crew-System
 
 - Crew beitreten möglich
 - Mehr Spieler = schneller
@@ -153,9 +148,9 @@ Vorteile:
 - ⚡ effizienter
 - 💰 alle verdienen mit
 
----
 
-# 💰 Auszahlung
+
+##💰 Auszahlung
 
 Für **alle Jobs gilt**:
 

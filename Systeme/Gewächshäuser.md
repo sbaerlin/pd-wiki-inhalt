@@ -23,8 +23,8 @@ Mögliche Orte:
 - an abgelegenen Orten
 
 Nicht geeignet sind zum Beispiel Straßen oder bestimmte Gebäudeinnenräume. Außerdem müssen gewisse Abstände zu Verarbeitern eingehalten werden.
-
-Da jeder Spieler Zugriff auf ein Gewächshaus haben kann, sollte es gut versteckt werden. Andere Spieler können Pflanzen ernten oder das Gewächshaus nutzen.
+Jeder Spieler kann zwei Gewächshauser aufbauen. 
+Da jeder Spieler Zugriff auf ein Gewächshaus haben kann, sollte es gut versteckt werden. Andere Spieler können Pflanzen ernten oder das Gewächshaus nutzen und die Polizei kann das Gewächshaus abreißen.
 
 ## Nutzung
 

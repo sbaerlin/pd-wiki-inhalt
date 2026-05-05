@@ -23,20 +23,27 @@ Mögliche Orte:
 - an abgelegenen Orten
 
 Nicht geeignet sind zum Beispiel Straßen oder bestimmte Gebäudeinnenräume. 
+
 Außerdem müssen gewisse Abstände zu Verarbeitern eingehalten werden.
+
 Jeder Spieler kann zwei Gewächshauser aufbauen. 
+
 Da jeder Spieler Zugriff auf ein Gewächshaus haben kann, sollte es gut versteckt werden. 
+
 Andere Spieler können Pflanzen ernten oder das Gewächshaus nutzen und die Polizei kann das Gewächshaus abreißen.
 
 ## Nutzung
 
 Nach dem Platzieren kann das Gewächshaus betreten werden. Dort befindet sich ein Beet mit mehreren Feldern.
 
-Auf jedem Feld kann ausgewählt werden, welche Pflanze angebaut werden soll. Nach dem Anpflanzen wachsen die Pflanzen mit der Zeit heran und können anschließend geerntet werden.
+Auf jedem Feld kann ausgewählt werden, welche Pflanze angebaut werden soll. 
+
+Nach dem Anpflanzen wachsen die Pflanzen mit der Zeit heran und können anschließend geerntet werden.
 
 ## Ernte
 
 Sobald eine Pflanze fertig gewachsen ist, kann sie geerntet werden. 
+
 Die geernteten Produkte landen im Inventar und können danach weiterverarbeitet werden.
 
 Beispiel:

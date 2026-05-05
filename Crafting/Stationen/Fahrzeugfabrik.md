@@ -1,4 +1,4 @@
-# LKW
+# 🚛 LKW
 
 ## MAN TGS Van Box
 - **benötigtes Level:** Allgemein Level 23

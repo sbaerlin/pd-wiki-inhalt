@@ -1,6 +1,6 @@
-# Gewächshäuser
+## 🌱 Gewächshäuser
 
-## Kauf
+## 🛒 Kauf
 
 Gewächshäuser können beim Bauernmarkt gekauft werden.
 
@@ -10,7 +10,7 @@ Dort können außerdem verschiedene Samen gekauft werden, zum Beispiel:
 - Kokain-Samen
 - weitere legale oder illegale Samen
 
-## Platzierung
+## 📍 Platzierung
 
 Ein Gewächshaus kann an vielen Orten platziert werden.
 
@@ -32,7 +32,7 @@ Da jeder Spieler Zugriff auf ein Gewächshaus haben kann, sollte es gut versteck
 
 Andere Spieler können Pflanzen ernten oder das Gewächshaus nutzen und die Polizei kann das Gewächshaus abreißen.
 
-## Nutzung
+## ⚙️ Nutzung
 
 Nach dem Platzieren kann das Gewächshaus betreten werden. Dort befindet sich ein Beet mit mehreren Feldern.
 
@@ -40,7 +40,7 @@ Auf jedem Feld kann ausgewählt werden, welche Pflanze angebaut werden soll.
 
 Nach dem Anpflanzen wachsen die Pflanzen mit der Zeit heran und können anschließend geerntet werden.
 
-## Ernte
+## 🌾 Ernte
 
 Sobald eine Pflanze fertig gewachsen ist, kann sie geerntet werden. 
 
@@ -53,13 +53,13 @@ Beispiel:
 - beim Verarbeiter weiterverarbeiten
 - anschließend verkaufen
 
-## Zucht-Samen
+## 🌿 Zucht-Samen
 
 Beim Ernten besteht die Möglichkeit, besondere Zucht-Samen zu erhalten.
 
 Zucht-Samen sind eine neue Art von Samen und ermöglichen passiven Anbau.
 
-## Passiver Anbau
+## ⏳ Passiver Anbau
 
 Beim passiven Anbau wird eine Pflanze einmal gesetzt und wächst anschließend über einen längeren Zeitraum.
 
@@ -74,8 +74,7 @@ Nach dem Ernten erhält man hochwertige Produkte, zum Beispiel:
 
 Diese hochwertigen Produkte können weiterverarbeitet und besonders teuer verkauft werden.
 
-
-## Legale und illegale Nutzung
+## ⚖️ Legale und illegale Nutzung
 
 Ein Gewächshaus bedeutet nicht automatisch, dass dort illegale Dinge angebaut werden.
 
@@ -90,4 +89,3 @@ Mögliche illegale Pflanzen:
 - Kokain
 
 Dadurch kann man von außen nicht sofort erkennen, ob ein Gewächshaus für legale oder illegale Zwecke genutzt wird.
-

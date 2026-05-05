@@ -9,52 +9,30 @@ Banken gibt es an mehreren Orten, zum Beispiel:
 - Frankfurt
 - München
 
-Es ist jedoch immer nur eine Bank aktiv.
 
 ## Vorbereitung
 
-Vor dem eigentlichen Überfall kann der Alarm der Bank verzögert werden. Dafür muss der Stromkasten außerhalb der Bank sabotiert werden.
-
-Benötigt wird:
-
-- Elektrowerkzeug
-
+Vor dem eigentlichen Überfall kann der Alarm der Bank verzögert werden. Dafür muss der Stromkasten außerhalb der Bank mit einem **Elektrowerkzeug** sabotiert werden.
 
 ## Zugang zur Bank
 
-Tagsüber ist der Eingangsbereich der Bank geöffnet. Nachts ist die Haupttür geschlossen.
+Tagsüber von 08 - 18 Uhr ist der Eingangsbereich der Bank geöffnet. Nachts ist die Haupttür geschlossen.
+Die Schiebetüren können mit **Dietrichen** geöffnet werden oder man kann die Scheiben einschießen. 
 
-Mögliche Wege in die Bank:
-
-- Schiebetür mit Dietrich öffnen
-- Scheibe einschießen und laut eindringen
 
 ## Ablauf des Bankraubs
 
-Nach dem Betreten der Bank muss zunächst der Mitarbeiterbereich erreicht werden. Dafür muss eine Mitarbeitertür mit Dietrichen geöffnet werden.
-
-Benötigt wird:
-
-- Dietrich
+Nach dem Betreten der Bank muss zunächst der Mitarbeiterbereich erreicht werden. Dafür muss eine Mitarbeitertür mit **Dietrichen** geöffnet werden.
 
 Danach geht es weiter in Richtung Tresorbereich. Spätestens am Tresor wird der Alarm ausgelöst.
 
-Der Tresor wird mit einem Laptop gehackt.
+Der Tresor wird mit einem **Laptop** gehackt.
 
-Benötigt wird:
-
-- Laptop
-
-Nach erfolgreichem Hack kann Bargeld aus dem Tresorraum entnommen werden. 
+Nach erfolgreichem Hack kann **Bargeld** aus dem Tresorraum entnommen werden. 
 
 ## Schließfächer
 
-Im Tresorraum befinden sich mehrere Schließfächer. Diese können einzeln mit Dietrichen aufgebrochen werden.
-
-Benötigt wird:
-
-- Dietrich
-
+Im Tresorraum befinden sich 30 Schließfächer. Diese **können** einzeln mit **Dietrichen** aufgebrochen werden.
 Mögliche Inhalte:
 
 - Goldketten
@@ -67,10 +45,9 @@ Mögliche Inhalte:
 
 ## Goldraum
 
-Zusätzlich gibt es einen gesicherten Bereich mit Goldbarren. Dieser ist durch ein Metallgitter geschützt.
+Zusätzlich gibt es einen gesicherten Bereich mit Goldbarren. Dieser ist durch ein Metallgitter geschützt und kann mit einem Akku-Winkelschleifer geööfnet werden.
 
-Benötigt wird:
-
-- Akku-Winkelschleifer
+## Beute
+Die maximale Beute beträgt über **2 Mio. €**
 
 

@@ -45,7 +45,9 @@ Mögliche Inhalte:
 
 ## Goldraum
 
-Zusätzlich gibt es einen gesicherten Bereich mit Goldbarren. Dieser ist durch ein Metallgitter geschützt und kann mit einem Akku-Winkelschleifer geööfnet werden.
+Zusätzlich gibt es einen gesicherten Bereich mit Goldbarren. Dieser ist durch ein Metallgitter geschützt und kann mit einem Akku-Winkelschleifer geöffnet werden.
+
+Dabei handelt es sich um 500g Barren die beim Edelmetallhändler verkauft werden können.
 
 ## Beute
 Die maximale Beute beträgt über **2 Mio. €**

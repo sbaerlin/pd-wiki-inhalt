@@ -2,64 +2,64 @@
 
 ## Marihuana
 Option 1:
-- Abbauort: Marihuanaplantage (Cannabis)
+- **Abbauort:** Marihuana-Plantage (Cannabis)
 
 Option 2:
-- Cannabissamen beim Bauernmarkt kaufen
-- Anbau in Gewächshäusern oder auf gedüngten Feldern
-- nach Wachstum aberneten
+- **Kauf:** Cannabis-Samen beim Bauernmarkt
+- **Anbau:** in Gewächshäusern oder auf gedüngten Feldern
+- **Ernte:** nach Wachstum abernten
 
 Nach den beiden Optionen:
       
-- Verarbeitung: Marihuanaverarbeiter
-- Lizenskosten: 45.000€
-- Endprodukt: 1 Marihuana
-- Verkauf: Cafe
+- **Verarbeitung:** Marihuana-Verarbeiter
+- **Lizenzkosten:** 45.000€
+- **Endprodukt:** 1 Marihuana
+- **Verkauf:** Café
 
-## hochweriges Marihuana
-- benötigt Zuchtcannabis, diese erhält durch ernten von Cannabis im Gewächshaus
-- Anbau in Gewächshäusern
-- nach Wachstum aberneten (Zuchtcannabispflanze)
-- Verarbeitung: Marihuanaverarbeiter
-- Lizenskosten: 45.000€
-- Endprodukt: 1 hochertiges Marihuana
-- Verkauf: Cafe
+## Hochwertiges Marihuana
+- **Voraussetzung:** Zucht-Cannabis (erhält man durch Ernten von Cannabis im Gewächshaus)
+- **Anbau:** in Gewächshäusern
+- **Ernte:** nach Wachstum abernten (Zucht-Cannabispflanze)
+- **Verarbeitung:** Marihuana-Verarbeiter
+- **Lizenzkosten:** 45.000€
+- **Endprodukt:** 1 hochwertiges Marihuana
+- **Verkauf:** Café
 
 ## Kokain
-- Kokainssamen beim Bauernmarkt kaufen
-- Anbau in Gewächshäusern
-- nach Wachstum aberneten (Kokainpflanze)
-- Verarbeitung: Kokainverarbeiter
-- Lizenskosten: 60.000€
-- Endprodukt: 1 verarbeitetes Kokain
-- Verkauf: Cafe
+- **Kauf:** Kokain-Samen beim Bauernmarkt
+- **Anbau:** in Gewächshäusern
+- **Ernte:** nach Wachstum abernten (Kokainpflanze)
+- **Verarbeitung:** Kokain-Verarbeiter
+- **Lizenzkosten:** 60.000€
+- **Endprodukt:** 1 verarbeitetes Kokain
+- **Verkauf:** Café
 
-## hochweriges Kokain
-- benötigt Zuchtkokainsamen, diese erhält durch ernten von Kokain im Gewächshaus
-- Anbau in Gewächshäusern
-- nach Wachstum aberneten (Zuchtkokainpflanze)
-- Verarbeitung: Kokainverarbeiter
-- Lizenskosten: 60.000€
-- Endprodukt: 1 hochwertiges Kokain
-- Verkauf: Cafe
+## Hochwertiges Kokain
+- **Voraussetzung:** Zucht-Kokainsamen (erhält man durch Ernten von Kokain im Gewächshaus)
+- **Anbau:** in Gewächshäusern
+- **Ernte:** nach Wachstum abernten (Zucht-Kokainpflanze)
+- **Verarbeitung:** Kokain-Verarbeiter
+- **Lizenzkosten:** 60.000€
+- **Endprodukt:** 1 hochwertiges Kokain
+- **Verkauf:** Café
 
 ## Zauberpilze
-- benötigtes Level: Mining/Landwirtschaft Level 3
-- Abbauort: Pilzwald (Pilze) -> diese sind nicht illegal!
-- Verarbeitung: Zauberpilzherstellung
-- Endprodukt: 1 Pilz + 1 Schwefelsäure = 2 Zauberpilze
-- Verkauf: Cafe
+- **benötigtes Level:** Mining/Landwirtschaft Level 3
+- **Abbauort:** Pilzwald (Pilze) -> diese sind nicht illegal!
+- **Verarbeitung:** Zauberpilzherstellung
+- **Endprodukt:** 1 Pilz + 1 Schwefelsäure = 2 Zauberpilze
+- **Verkauf:** Café
 
 ## Uranbehälter
-- benötigtes Level: Mining/Landwirtschaft Level 3 + Allgemein Level 12
-- bentötigtes Ausrüstung: Castor LKW + Stahlenschutzanzug + Maske
-- Abbauort: Uranmine (ungereinigtes Uranerz)
-- Verarbeitung: Uranreinigung
-- Lizenskosten: keine
-- Zwischenprodukt: 3 ungereinigtes Uranerz + 1 Trennmittel = 3 gereinigte Uran + 1 Uranabfall
-- Verarbeitung: Urananreicherung
-- Zwischenprodukt: 3 gereinigte Uran = 1 angereichertes Uran
-- Verarbeitung: Uranabfüllung
-- Lizenskosten: 150.000€
-- Endprodukt: 1 Uranbehälter
-- Verkauf: Uranhändler
+- **benötigtes Level:** Mining/Landwirtschaft Level 3 + Allgemein Level 12
+- **benötigte Ausrüstung:** Castor-LKW + Strahlenschutzanzug + Maske
+- **Abbauort:** Uranmine (ungereinigtes Uranerz)
+- **Verarbeitung:** Uranreinigung
+- **Lizenzkosten:** keine
+- **Zwischenprodukt:** 3 ungereinigtes Uranerz + 1 Trennmittel = 3 gereinigtes Uran + 1 Uranabfall
+- **Verarbeitung:** Urananreicherung
+- **Zwischenprodukt:** 3 gereinigtes Uran = 1 angereichertes Uran
+- **Verarbeitung:** Uranabfüllung
+- **Lizenzkosten:** 150.000€
+- **Endprodukt:** 1 Uranbehälter
+- **Verkauf:** Uranhändler

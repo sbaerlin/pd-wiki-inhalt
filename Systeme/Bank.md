@@ -17,6 +17,7 @@ Vor dem eigentlichen Überfall kann der Alarm der Bank verzögert werden. Dafür
 ## Zugang zur Bank
 
 Tagsüber von 08 - 18 Uhr ist der Eingangsbereich der Bank geöffnet. Nachts ist die Haupttür geschlossen.
+
 Die Schiebetüren können mit **Dietrichen** geöffnet werden oder man kann die Scheiben einschießen. 
 
 

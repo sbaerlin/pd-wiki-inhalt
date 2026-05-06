@@ -26,7 +26,7 @@ Nicht geeignet sind zum Beispiel Straßen oder bestimmte Gebäudeinnenräume.
 
 Außerdem müssen gewisse Abstände zu Verarbeitern eingehalten werden.
 
-Jeder Spieler kann zwei Gewächshauser aufbauen. 
+Jeder Spieler kann zwei Gewächshäuser aufbauen. 
 
 Da jeder Spieler Zugriff auf ein Gewächshaus haben kann, sollte es gut versteckt werden. 
 
@@ -65,7 +65,7 @@ Beim passiven Anbau wird eine Pflanze einmal gesetzt und wächst anschließend �
 
 Die Wachstumszeit beträgt ungefähr:
 
-- **12 bis 20 Stunden**
+- **12 bis 20 Stunden Reallife**
 
 Nach dem Ernten erhält man hochwertige Produkte, zum Beispiel:
 

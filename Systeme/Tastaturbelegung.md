@@ -21,8 +21,6 @@
 | M | Karte öffnen |
 | K | Kompass öffnen |
 | O | Uhr anzeigen |
-| P | Spielerliste öffnen |
-| Esc | Spielmenü öffnen |
 
 ---
 

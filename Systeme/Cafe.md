@@ -12,14 +12,13 @@ Das Cafe-System ermöglicht es Spielern, Drogen über bestimmte Cafes auf dem Se
 Nach der Einnahme kannst du:
 
 - Drogen im Cafe einlagern
-- Den automatischen Verkaufsprozess starten
+- den automatischen Verkaufsprozess starten
 
 Wichtig:
 Der Verkauf läuft nicht sofort, sondern benötigt Zeit.
 
 ## ⏳ Verkaufsdauer
-- Der Verkaufsprozess dauert bis zu 30 Minuten.
-- Danach kann das verdiente Geld abgeholt werden.
+- Der Verkaufsprozess dauert bis zu 30 Minuten, danach kann das verdiente Geld abgeholt werden.
 
 Strategie-Tipp:
 - Mehrere Cafes gleichzeitig einnehmen
@@ -29,29 +28,26 @@ Strategie-Tipp:
 ## 💰 Marktpreis und Polizeisystem
 Der Verkaufspreis hängt von der Anzahl der aktiven Polizisten ab:
 
-- Mehr Polizisten online → höherer Verkaufspreis
-- Weniger Polizisten online → geringerer Verkaufspreis
+- Mehr Polizisten im Dienst → höherer Verkaufspreis
+- Weniger Polizisten im Dienst → geringerer Verkaufspreis
 
 Ziel des Systems:
 - Verhindern, dass Spieler nachts ohne Risiko farmen
 
 Vor dem Verkauf erhältst du eine Meldung:
-- Ob du den vollen Preis oder nur einen reduzierten Preis bekommst
+- ob du den vollen Preis oder nur einen reduzierten Preis bekommst
 
 ## ⚠️ Risiko und Überfälle
 Cafes sind nicht sicher und können angegriffen werden:
 
-- Andere Spieler oder Gangs können dein Cafe einnehmen
-- Erst nach erfolgreicher Einnahme können sie:
-  - deine gelagerte Ware stehlen
+- andere Spieler oder Gangs können dein Cafe einnehmen
+- erst nach erfolgreicher Einnahme können sie deine gelagerte Ware stehlen
 
 Wichtig:
 Klauen ist nur nach Übernahme des Cafes möglich.
 
 ## 📱 Benachrichtigungen
-Wenn dein Cafe angegriffen wird:
-
-- Du erhältst eine SMS-Benachrichtigung
+Wenn dein Cafe angegriffen wird erhältst du eine SMS-Benachrichtigung.
 
 Dadurch hast du die Möglichkeit zu reagieren und dein Cafe zu verteidigen.
 

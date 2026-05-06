@@ -16,7 +16,8 @@
 | Strg | Langsam bewegen |
 | X | Ducken |
 | Y | Hinlegen |
-| V | Übersteigen / Klettern |
+| V | Übersteigen
+| Shift + V | Klettern |
 | Alt | Freies Umschauen |
 | M | Karte öffnen |
 | K | Kompass öffnen |

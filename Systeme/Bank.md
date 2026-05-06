@@ -2,7 +2,7 @@
 
 ## 📍 Standorte
 
-Banken gibt es an mehreren Orten, zum Beispiel:
+Banken gibt es an mehreren Orten:
 
 - Hamburg
 - Frankfurt
@@ -10,8 +10,8 @@ Banken gibt es an mehreren Orten, zum Beispiel:
 
 ## ⚙️ Vorbereitung
 
-Vor dem eigentlichen Überfall kann der Alarm der Bank verzögert werden.  
-Dafür muss der Stromkasten außerhalb der Bank mit einem **Elektrowerkzeug** sabotiert werden.
+Vor dem eigentlichen Überfall kann der Alarm der Bank verzögert werden,  
+dafür muss der Stromkasten außerhalb der Bank mit einem **Elektrowerkzeug** sabotiert werden.
 
 ## 🚪 Zugang zur Bank
 
@@ -28,9 +28,8 @@ Nach dem Betreten der Bank muss zunächst der Mitarbeiterbereich erreicht werden
 
 - **Zugang:** Mitarbeitertür mit **Dietrichen** öffnen  
 - **Fortschritt:** Richtung Tresorbereich  
-- **Alarm:** wird spätestens am Tresor ausgelöst  
-
-Der Tresor wird mit einem **Laptop** gehackt.
+- **Alarm:** wird spätestens am Tresor ausgelöst
+- **Tresor:** wird mit einem **Laptop** gehackt.
 
 Nach erfolgreichem Hack kann **Bargeld** aus dem Tresorraum entnommen werden.
 
@@ -43,8 +42,9 @@ Im Tresorraum befinden sich **30 Schließfächer**, die einzeln mit **Dietrichen
 - Diamantringe
 - SIM-Karten
 - Messer
-- weitere Items
 - Nieten oder wertloser Inhalt
+- weitere Items
+
 
 ## 🪙 Goldraum
 

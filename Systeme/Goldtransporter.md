@@ -29,8 +29,8 @@ Der Transport muss aktiv gefahren werden. Es handelt sich nicht um einen automat
 
 ## 🏦 Zielort
 
-Am Zielort, der Bank in München, muss der Goldtransporter in den dafür vorgesehenen gelb markiertzen Bereich geparkt werden. 
+Am Zielort, der Bank in München, muss der Goldtransporter in den dafür vorgesehenen gelb markierten Bereich geparkt werden. 
 
-Nach einer gewissen Wartezeit öffnet sich der Kofferraum des LKW`s und dan Gold kann entnommen werden.
+Nach einer gewissen Wartezeit öffnet sich der Kofferraum des LKW`s und dann Gold kann entnommen werden.
 
 Dabei handelt es sich um 1.000g Barren die beim Edelmetallhändler verkauft werden können.

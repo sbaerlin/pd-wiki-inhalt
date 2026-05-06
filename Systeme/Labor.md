@@ -16,7 +16,7 @@ Sobald das Labor geöffnet wird, geht automatisch ein Alarm bei der Polizei ein.
 ## ⚙️ Ablauf im Labor
 Nach dem Zugang über das Toilettenhäuschen müssen mehrere Türen mit Dietrichen geöffnet werden.
 
-Es müssen weitere Schlüssel innerhalb des Labors gefunden werden um weiter ins das innere des Labors zu gelangen.
+Es müssen weitere Schlüssel innerhalb des Labors gefunden werden um weiter ins das Innere des Labors zu gelangen.
 
 Die Haupttüren der einzelnen Etagen benötigen diese Schlüssel.
 

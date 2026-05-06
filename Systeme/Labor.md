@@ -1,6 +1,6 @@
 # 🧪 Laborraub
 
-er Laborraub findet auf dem Gelände eines versteckten Labors statt, welches sich südwestlich vom Ölfeld befindet.
+Der Laborraub findet auf dem Gelände eines versteckten Labors statt, welches sich südwestlich vom Ölfeld befindet.
 
 Der Laborraub kann nur einmal pro Sperrstunde durchgeführt werden.
 
@@ -16,7 +16,7 @@ Sobald das Labor geöffnet wird, geht automatisch ein Alarm bei der Polizei ein.
 ## ⚙️ Ablauf im Labor
 Nach dem Zugang über das Toilettenhäuschen müssen mehrere Türen mit Dietrichen geöffnet werden.
 
-Es müssen weitere Schlüssel innerhalb des Labors gefunden werden um weiter ins das innere des Labors zu gelangen
+Es müssen weitere Schlüssel innerhalb des Labors gefunden werden um weiter ins das innere des Labors zu gelangen.
 
 Die Haupttüren der einzelnen Etagen benötigen diese Schlüssel.
 

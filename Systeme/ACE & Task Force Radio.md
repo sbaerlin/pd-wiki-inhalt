@@ -276,10 +276,11 @@ Besonders bei:
 * Nutzt Funkgeräte möglichst sinnvoll und nicht dauerhaft.
 * Lernt die ACE-Interaktionen früh kennen.
 * Fragt andere Spieler ruhig nach Hilfe.
+> aber nicht OOC!
 * Blutungen haben immer höchste Priorität.
 * Elastische Mullbinden sind meist besser als normale.
 * Nicht sofort in Panik HLW starten.
-* Fahrzeuge und Personen werden fast immer über ACE bedient.
+* Fahrzeuge und Personen werden fast immer über ACE oder das Windows-Menü bedient
 
 > 🤝 Niemand muss sofort alles können.
 > Viele Systeme wirken anfangs kompliziert, werden aber nach kurzer Zeit schnell verständlich.

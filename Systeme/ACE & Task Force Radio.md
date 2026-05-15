@@ -79,12 +79,6 @@ Dazu gehören unter anderem:
 ACE sorgt dafür, dass viele Dinge nicht mehr über einfache Menüs, sondern direkt über Interaktionen funktionieren.
 
 
-
-### 👤 ACE-Interaktionen
-
-ACE besitzt zwei verschiedene Interaktionsmenüs.
-
-
 ### 🤝 Fremdinteraktion
 
 Mit der Fremdinteraktion können andere Spieler, Fahrzeuge oder Objekte benutzt werden.
@@ -97,7 +91,7 @@ Beispiele:
 * Personen durchsuchen
 * Personen tragen oder fesseln
 
-### Taste
+#### Taste
 
 > Die hier aufgeführten Tasten entsprechen den Standardbelegungen und können in den Einstellungen angepasst werden.
 
@@ -117,7 +111,7 @@ Beispiele:
 * eigene medizinische Versorgung
 * Einstellungen verwalten
 
-### Taste
+#### Taste
 
 > Die hier aufgeführten Tasten entsprechen den Standardbelegungen und können in den Einstellungen angepasst werden.
 

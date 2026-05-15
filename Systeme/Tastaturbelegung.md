@@ -22,7 +22,7 @@
 | M | Karte öffnen |
 | K | Kompass öffnen |
 | O | Uhr anzeigen |
-| Windows-Taste | Normales Interaktionsmenü öffnen (Farmen, Ausweis zeigen, etc. |
+| Windows-Taste | Normales Interaktionsmenü öffnen (Farmen, Ausweis zeigen, etc.) |
 
 ---
 

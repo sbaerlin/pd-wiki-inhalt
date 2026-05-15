@@ -16,12 +16,13 @@
 | Strg | Langsam bewegen |
 | X | Ducken |
 | Y | Hinlegen |
-| V | Übersteigen
+| V | Übersteigen |
 | Shift + V | Klettern |
 | Alt | Freies Umschauen |
 | M | Karte öffnen |
 | K | Kompass öffnen |
 | O | Uhr anzeigen |
+| Windows-Taste | Normales Interaktionsmenü öffnen (Farmen, Ausweis zeigen, etc. |
 
 ---
 
@@ -93,3 +94,5 @@
 - Viele Funktionen können serverabhängig angepasst oder erweitert sein.
 - ACE und Task Force Radio erweitern Arma 3 um realistische Interaktionen und Funkkommunikation.
 - Tablet, Handy und virtuelle Inventare sind serverspezifische Erweiterungen.
+- Die Windows-Taste ist standardmäßig doppelt belegt (normales Interaktionsmenü und ACE-Interaktion). Es wird empfohlen, eine der beiden Funktionen umzubelegen.
+- Die normale Interaktion kann unter `Steuerung → Individuelle Steuerung 10` geändert werden.

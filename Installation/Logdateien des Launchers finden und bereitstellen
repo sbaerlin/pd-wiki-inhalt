@@ -1,0 +1,51 @@
+# Logdateien des Launchers finden und bereitstellen
+
+Logdateien sind ein wichtiges Hilfsmittel für den Support, um Fehler und Probleme im Launcher zu analysieren.
+
+In diesem Artikel wird erklärt, wie du die Logdateien im Launcher schnell findest und für ein Support-Ticket bereitstellen kannst.
+
+---
+
+## Schritt-für-Schritt-Anleitung
+
+### 1. Launcher öffnen
+
+Starte den Launcher wie gewohnt.
+
+---
+
+### 2. Einstellungen aufrufen
+
+Klicke oben rechts auf das **Zahnrad-Symbol**, um die Einstellungen zu öffnen.
+
+---
+
+### 3. Logs öffnen
+
+In den Einstellungen findest du unten den Button:
+
+> **Logs**
+
+Dieser befindet sich links neben dem **Abmelden**-Button.
+
+---
+
+### 4. Log-Verzeichnis öffnen
+
+Nach dem Klick auf **Logs** öffnet sich automatisch der Ordner, in dem die Logdateien gespeichert sind.
+
+---
+
+### 5. Logdateien verwenden
+
+Die angezeigten Logdateien können direkt eingesehen werden.
+
+Für Support-Anfragen sollten die relevanten Logdateien dem Ticket angehängt werden.
+
+Dadurch kann das Support-Team Probleme schneller analysieren und lösen.
+
+---
+
+## Hinweis
+
+Bitte stelle sicher, dass die Logdateien **unverändert** und möglichst **vollständig** übermittelt werden, damit eine genaue Auswertung möglich ist.

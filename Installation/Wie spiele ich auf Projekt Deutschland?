@@ -1,0 +1,119 @@
+# Projekt Deutschland Launcher installieren
+
+> **Wichtiger Hinweis vor der Installation**  
+> Bevor du mit der Installation beginnst, kannst du dich vorab selbstständig whitelisten.
+
+Die Whitelist dient ausschließlich einer automatischen Systemüberprüfung. Dabei wird sichergestellt, dass es sich nicht um einen sogenannten **Wegwerf-Steam-Account** handelt.
+
+Solche Accounts werden häufig für **Bug-Using**, **Trolling** oder ähnliche Verstöße genutzt.
+
+Du musst hierfür **kein Gespräch führen** oder etwas Vergleichbares absolvieren.
+
+➡️ **Hier kannst du dich selbstständig whitelisten:**  
+[whitelist.projekt-deutsch.land](https://whitelist.projekt-deutsch.land)
+
+---
+
+## Überblick
+
+Der **Projekt Deutschland Launcher** wird bequem über den **Microsoft Store** installiert. Anschließend kümmert er sich automatisch um den Download und die Aktualisierung unseres Modpacks für **Arma 3**.
+
+In dieser Anleitung erklären wir dir Schritt für Schritt, wie du den Launcher installierst, einrichtest und startklar machst.
+
+---
+
+## Video-Tutorial
+
+<div align="center">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0zj9Ji-MCK0" title="Projekt Deutschland Launcher Video-Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+Falls das Video in deiner Markdown-Ansicht nicht direkt angezeigt wird, kannst du es hier öffnen:
+
+[![Video-Tutorial zum Projekt Deutschland Launcher](https://img.youtube.com/vi/0zj9Ji-MCK0/maxresdefault.jpg)](https://youtu.be/0zj9Ji-MCK0)
+
+---
+
+## 1. Installation über den Microsoft Store
+
+Du hast zwei Möglichkeiten, den Launcher zu installieren.
+
+### Möglichkeit 1: Direkt im Microsoft Store suchen
+
+1. Öffne den **Microsoft Store** auf deinem PC.
+2. Suche nach **„Projekt Deutschland Launcher“**.
+3. Klicke auf **Installieren**.
+
+### Möglichkeit 2: Installation über den direkten Store-Link
+
+1. Klicke auf den in unseren Anleitungen hinterlegten **Microsoft-Store-Link** zum Projekt Deutschland Launcher.
+2. Der Microsoft Store öffnet sich mit der Produktseite des Launchers.
+3. Klicke auf **Installieren**.
+
+> Da der Launcher über den Microsoft Store verteilt wird, ist die Anwendung von Microsoft auf Viren und Malware überprüft.  
+> Der Download ist somit **signiert, geprüft und verifiziert**.
+
+---
+
+## 2. Erster Start und Anmeldung
+
+Nach der Installation findest du den **Projekt Deutschland Launcher** im Startmenü.
+
+1. Starte den **Projekt Deutschland Launcher**.
+2. Melde dich mit deinen **Forum-Zugangsdaten** an.
+
+> Erst nach erfolgreicher Anmeldung kannst du den Modpack-Download und weitere Funktionen nutzen.
+
+---
+
+## 3. Pfade in den Einstellungen festlegen
+
+1. Öffne im Launcher den Bereich **Einstellungen**.
+2. Trage unter **Arma 3 Pfad** den Installationsordner deiner Arma-3-Installation ein.
+3. Wähle einen Installationspfad für das **Modpack** aus.
+4. Speichere die Einstellungen über **Speichern**.
+
+> Stelle sicher, dass beide Pfade korrekt gesetzt sind, damit der Download ohne Fehler funktioniert.
+
+---
+
+## 4. Modpack herunterladen und Spiel starten
+
+1. Klicke im Launcher auf **Download**.
+2. Warte, bis alle Dateien vollständig heruntergeladen wurden.
+3. Starte das Spiel über den Launcher.
+
+Der Launcher hält dein Modpack anschließend automatisch aktuell.
+
+---
+
+## 5. Teamspeak-Identität mit dem Forum verbinden
+
+Damit du deine Rechte erhältst, musst du deine Teamspeak-Identität mit dem Forum verbinden.
+
+1. Im Forum anmelden.
+2. Zum **Nutzerprofil** wechseln.
+3. Den Reiter **Teamspeak** öffnen.
+4. Auf **„Teamspeak Identität verbinden“** klicken.
+5. Im Teamspeak in die Eingangshalle gehen.  
+   **TS³-IP:** `projektdeutschland`
+6. Deinen Benutzernamen auswählen und absenden.
+7. Den Code im Teamspeak erhalten.
+8. Den Code im Forum eingeben.
+
+Danach ist deine Identität verknüpft und du erhältst deine Rechte.
+
+---
+
+## Checkliste
+
+- [ ] Whitelist durchgeführt
+- [ ] Launcher über den Microsoft Store installiert
+- [ ] Im Launcher mit Forum-Zugangsdaten angemeldet
+- [ ] Arma-3-Pfad gesetzt
+- [ ] Modpack-Installationspfad gesetzt
+- [ ] Modpack heruntergeladen
+- [ ] Spiel über den Launcher gestartet
+- [ ] Teamspeak-Identität mit dem Forum verbunden

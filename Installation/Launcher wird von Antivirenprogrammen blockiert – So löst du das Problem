@@ -1,0 +1,146 @@
+# Launcher wird von Antivirenprogrammen blockiert  
+## So löst du das Problem
+
+Einige Antivirenprogramme können unseren **Projekt-Deutschland-Launcher** fälschlicherweise als potenzielle Gefahr einstufen.
+
+Dies ist ein typischer **False Positive**, der bei vielen selbstgehosteten oder weniger verbreiteten Anwendungen auftreten kann.
+
+Dadurch kann es passieren, dass:
+
+- der Launcher nicht mehr startet
+- die `.exe`-Datei in die Quarantäne verschoben wird
+- Updates oder Installationen fehlschlagen
+- Dateien automatisch gelöscht werden
+
+Damit du den Launcher wieder nutzen kannst, findest du hier die wichtigsten Schritte zur Lösung.
+
+---
+
+## 1. Warum passiert das?
+
+Antivirenprogramme prüfen alle ausführbaren Dateien automatisch, darunter auch `.exe`-Dateien.
+
+Da unser Launcher nicht aus einer großen Software-Datenbank stammt und regelmäßig aktualisiert wird, erkennen manche Schutzprogramme ihn nicht automatisch als vertrauenswürdig.
+
+Das führt manchmal dazu, dass der Launcher blockiert wird, obwohl es sich um eine falsche Erkennung handelt.
+
+---
+
+## 2. Schritt 1: Quarantäne überprüfen
+
+Wenn dein Launcher plötzlich fehlt oder nicht mehr ausgeführt werden kann, wurde er möglicherweise in die Quarantäne verschoben.
+
+So findest du die Quarantäne, je nach Antivirenprogramm:
+
+1. Öffne dein Antivirenprogramm.
+2. Suche nach einem Bereich wie:
+   - **Quarantäne**
+   - **Bedrohungsverlauf**
+   - **Schutzverlauf**
+   - **Virus-Container**
+3. Prüfe, ob der Launcher oder eine Datei wie `ProjektDeutschlandLauncher.exe` dort aufgeführt ist.
+4. Wähle die Datei aus und klicke auf:
+   - **Wiederherstellen**
+   - **Zulassen**
+   - **Aus Quarantäne entfernen**
+
+> ⚠️ **Hinweis:** Manche Programme benötigen Administratorrechte, um Dateien wiederherzustellen.
+
+---
+
+## 3. Schritt 2: Eine Ausnahme hinzufügen
+
+Damit das Problem in Zukunft nicht erneut auftritt, solltest du den Launcher bzw. seinen Installationsordner als vertrauenswürdig markieren.
+
+Die Bezeichnung kann je nach Software unterschiedlich lauten:
+
+- Ausnahmen
+- Ausschlüsse
+- Whitelist
+- Vertrauenswürdige Dateien
+- Vertrauenswürdige Ordner
+
+Füge dort Folgendes hinzu:
+
+- die Launcher-`.exe`
+- den kompletten Launcher-Ordner  
+  **empfohlen**
+- optional den gesamten Arma-3-Installationsordner
+
+Dies verhindert, dass das Antivirenprogramm den Launcher erneut blockiert oder löscht.
+
+---
+
+## 4. Beispiel: Wo finde ich die Ausnahmen?
+
+Die genauen Menüpunkte können je nach Antivirenprogramm leicht abweichen.  
+Die folgenden Schritte dienen als allgemeine Orientierung.
+
+---
+
+### Windows Defender / Microsoft Defender
+
+1. Öffne die **Einstellungen**.
+2. Gehe zu **Update & Sicherheit**.
+3. Öffne **Windows-Sicherheit**.
+4. Wähle **Viren- & Bedrohungsschutz**.
+5. Öffne **Einstellungen für Viren- & Bedrohungsschutz**.
+6. Wähle **Ausschlüsse hinzufügen oder entfernen**.
+7. Füge die Datei oder den Ordner hinzu.
+
+---
+
+### Avast / AVG
+
+1. Öffne das Menü.
+2. Gehe zu **Einstellungen**.
+3. Öffne den Bereich **Schutz**.
+4. Wähle **Virenscan**.
+5. Öffne **Ausnahmen**.
+6. Füge die Datei oder den Ordner hinzu.
+
+---
+
+### Bitdefender
+
+1. Öffne die **Schutzfunktionen**.
+2. Gehe zu **Antivirus**.
+3. Wähle **Ausnahmen verwalten**.
+4. Füge die Datei oder den Ordner hinzu.
+
+---
+
+### Kaspersky
+
+1. Öffne die **Einstellungen**.
+2. Gehe zu **Bedrohungen & Ausnahmen**.
+3. Öffne die **Vertrauenswürdige Zone**.
+4. Füge die Datei oder den Ordner hinzu.
+
+> Da Nutzer viele verschiedene Antivirenprogramme verwenden, ist dies eine allgemein kompatible Anleitung.
+
+---
+
+## 5. Nach der Wiederherstellung
+
+Nachdem der Launcher wiederhergestellt und als Ausnahme eingetragen wurde, solltest du Folgendes tun:
+
+1. Launcher erneut öffnen.
+2. Updates herunterladen lassen.
+3. Installation prüfen.
+4. Spiel starten.
+
+Damit sollte das Problem dauerhaft behoben sein.
+
+---
+
+## 6. Wann sollte ich den Support kontaktieren?
+
+Melde dich bei uns, wenn:
+
+- der Launcher trotz Ausnahme weiterhin gelöscht wird
+- der Download beschädigt erscheint
+- dein Antivirenprogramm keine Wiederherstellung zulässt
+- der Launcher sich nach der Wiederherstellung nicht starten lässt
+
+Wir helfen dir dann weiter oder stellen dir eine frische Launcher-Datei bereit.
